@@ -1,0 +1,36 @@
+# Non-project-specific build files:
+build.xml
+local.properties
+/gradlew
+/gradlew.bat
+/gradle
+# Ant builds
+ant-build
+ant-gen
+# Eclipse builds
+gen
+out
+# Gradle build artifacts
+.gradle
+.gradletasknamecache
+/build
+/CordovaLib/build
+/app/build
+gradle-app.setting
+# Android Studio
+.idea
+build.gradle
+cordova/
+gradle.properties
+platform_www/
+project.properties
+settings.gradle
+wrapper.gradle
+CordovaLib/
+MobileSync/
+SalesforceAnalytics/
+SalesforceHybrid/
+SalesforceSDK/
+SmartStore/
+android.iml
+android.json

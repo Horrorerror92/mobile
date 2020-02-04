@@ -1,0 +1,11 @@
+{
+    "remoteAccessConsumerKey": "3MVG9G9pzCUSkzZsVORu0cDMuRI_SgzOIXimM3KD8fUaDv3IfQwnn5JFQalYhUhYY.As6_BqQ9_P34NUg5xHP",
+    "oauthRedirectURI": "communityapp://auth/success",
+    "oauthScopes": ["web", "api"],
+    "isLocal": true,
+    "startPage": "index.html",
+    "errorPage": "error.html",
+    "shouldAuthenticate": true,
+    "attemptOfflineLoad": false,
+    "androidPushNotificationClientId": ""
+}
